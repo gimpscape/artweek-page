@@ -17,6 +17,7 @@
     <link rel="icon" type="image/svg+xml" sizes="180x180" href="../assets/img/img-logo.svg">
     <link rel="icon" type="image/svg+xml" sizes="180x180" href="../assets/img/img-logo.svg">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.1.1/aos.css">
     <link rel="stylesheet" href="../assets/css/styles.min.css">
 </head>
 
@@ -43,7 +44,7 @@
             <div class="row" style="min-height: 70vh;">
                 <div class="col text-center d-lg-none justify-content-md-center justify-content-xl-center align-items-xl-center"><img class="img-fluid w-50 my-3" src="../assets/img/img-header.svg" alt="Image Header Mobile"></div>
                 <div class="col-12 col-lg-5 col-xl-6 d-xl-flex align-items-xl-center">
-                    <div class="my-auto">
+                    <div data-aos="fade-right" data-aos-once="true" class="my-auto">
                         <h1 class="text-center text-lg-left text-grey" style="margin-bottom: 24px;"><strong>Gimpscape Artweek</strong></h1>
                         <p class="text-center text-lg-left text-grey" style="margin-bottom: 24px;">Online workshops and sharing sessions on current topics for all FOSS designer enthusiasts. The event was organized by the Indonesian Gimpscape Community, the largest FOSS Design Community in Indonesia. Everyone is welcome to join
                             Gimpscape Artweek, including you!</p>
@@ -51,7 +52,7 @@
                                 href="#agenda">Learn More</a></div>
                     </div>
                 </div>
-                <div class="col d-xl-flex justify-content-xl-center align-items-xl-center"><img class="img-fluid d-none d-lg-flex" src="../assets/img/img-header.svg" alt="Image Header"></div>
+                <div class="col d-xl-flex justify-content-xl-center align-items-xl-center"><img class="img-fluid d-none d-lg-flex" data-aos="fade-left" data-aos-once="true" src="../assets/img/img-header.svg" alt="Image Header"></div>
             </div>
         </div>
     </section>
@@ -59,8 +60,8 @@
         <div class="container" style="min-height: 70vh;">
             <h1 class="text-grey"><strong>Event</strong></h1>
             <div class="row">
-                <div class="col-md-6 col-xl-6 my-3">
-                    <div class="border rounded agenda-card p-5"><img src="../assets/img/icon-cfp.svg" alt="Call for Paper">
+                <div class="col-md-6 col-xl-6 my-3" data-aos="zoom-in-up" data-aos-once="true">
+                    <div class="border rounded agenda-card p-5"><img src="../assets/img/icons/icon-cfp.svg" alt="Call for Paper">
                         <h3 class="text-white"><strong>Call for Paper</strong></h3>
                         <p class="text-white">We open up opportunities for anyone working in the world of design and digital art (specifically those who use open source) to get involved in this event. For this reason, we open registration papers for prospective presenters.</p>
                         <a
@@ -68,19 +69,19 @@
                     </div>
                 </div>
                 <div class="col-md-6 col-xl-6 my-3">
-                    <div class="border rounded p-5 agenda-card-white"><img src="../assets/img/icon-registrasi.svg" alt="Registration">
+                    <div class="border rounded p-5 agenda-card-white" data-aos="zoom-in-up" data-aos-once="true"><img src="../assets/img/icons/icon-registrasi.svg" alt="Registration">
                         <h3 class="text-grey"><strong>Parcipant Registration</strong></h3>
                         <p class="text-grey">Gimpscape Artweek is an open activity that can be followed by anyone. However, to facilitate the management of activities, we require that potential participants register themselves. Registration will be open until the day of the
                             event.</p><a class="btn border rounded border-primary mt-3 mr-3 main-btn py-2 my-3 text-primary px-4 py-3" role="button" style="background-color: rgba(25,95,190,0) !important;">REGISTER NOW</a></div>
                 </div>
-                <div class="col-md-6 col-xl-6 my-3">
-                    <div class="border rounded p-5 agenda-card-white"><img src="../assets/img/icon-jadwal.svg" alt="Schedule">
+                <div class="col-md-6 col-xl-6 my-3" data-aos="zoom-in-up" data-aos-once="true">
+                    <div class="border rounded p-5 agenda-card-white"><img src="../assets/img/icons/icon-jadwal.svg" alt="Schedule">
                         <h3 class="text-grey"><strong>Schedule</strong><br></h3>
                         <p class="text-grey">Artweek Gimpscape will be held on 27-28 June 2020 starting at 09.00 WIB s.d. at 4:30 pm (GMT+7). This activity will be carried out online, information about classes, list of presenters, as well as the full schedule will be informed
                             immediately.</p><a class="btn border rounded border-primary mt-3 mr-3 main-btn py-2 my-3 text-primary px-4 py-3" role="button" style="background-color: rgba(25,95,190,0) !important;">DETAILS</a></div>
                 </div>
                 <div class="col-md-6 col-xl-6 my-3">
-                    <div class="border rounded p-5 agenda-card-white"><img src="../assets/img/icon-donasi.svg" alt="Donation">
+                    <div class="border rounded p-5 agenda-card-white" data-aos="zoom-in-up" data-aos-once="true"><img src="../assets/img/icons/icon-donasi.svg" alt="Donation">
                         <h3 class="text-grey"><strong>Donations &amp; Sponsors</strong><br></h3>
                         <p class="text-grey">We open up opportunities for anyone, whether personal, group, community, or company to help carry out this Gimpscape Artweek activity by sponsoring or helping us to become media partners during the activity.</p><a class="btn border rounded border-primary mt-3 mr-3 main-btn py-2 my-3 text-primary px-4 py-3"
                             role="button" style="background-color: rgba(25,95,190,0) !important;">CONTACT US</a></div>
@@ -99,7 +100,7 @@
                         <div class="text-center text-lg-left"><button class="btn btn-primary border rounded mt-3 mr-3 main-btn p-3 main-btn" type="button"><strong>Register</strong></button></div>
                     </div>
                 </div>
-                <div class="col-lg-4 text-center d-none d-lg-flex justify-content-xl-center align-items-xl-center"><img class="img-fluid" src="../assets/img/img-registrasi.svg" alt="Image Registrations"></div>
+                <div class="col-lg-4 text-center d-none d-lg-flex justify-content-xl-center align-items-xl-center"><img class="img-fluid" data-aos="fade-left" data-aos-once="true" src="../assets/img/img-registrasi.svg" alt="Image Registrations"></div>
             </div>
         </div>
     </section>
@@ -111,27 +112,27 @@
                         <h1 class="text-center text-lg-left text-white"><strong>Contact US</strong></h1>
                         <p class="text-center text-lg-left text-white">Please contact us for more detailed information about<br>Gimpscape Artweek.</p>
                     </div>
-                    <div class="col-lg-6 col-xl-5 text-center"><a href="https://t.me/gimpscape" aria-label="telegram"><img class="img-fluid m-2" src="../assets/img/icon-telegram.svg" alt="telegram"></a><a href="mailto:gimpscape.id@gmail.com" aria-label="email"><img class="img-fluid m-2" src="../assets/img/icon-email.svg" alt="email"></a>
+                    <div class="col-lg-6 col-xl-5 text-center"><a href="https://t.me/gimpscape" aria-label="telegram"><img class="img-fluid m-2" data-aos="zoom-in" data-aos-once="true" src="../assets/img/icons/icon-telegram.svg" alt="telegram"></a><a href="mailto:gimpscape.id@gmail.com" aria-label="email"><img class="img-fluid m-2" data-aos="zoom-in" data-aos-once="true" src="../assets/img/icons/icon-email.svg" alt="email"></a>
                         <a
-                            href="https://instagram.com/gimpscape_id" aria-label="instagram"><img class="img-fluid m-2" src="../assets/img/icon-ig.svg" alt="instagram"></a><a href="https://facebook.com/gimpscapeid" aria-label="facebook"><img class="img-fluid m-2" src="../assets/img/icon-fb.svg" alt="facebook"></a></div>
+                            href="https://instagram.com/gimpscape_id" aria-label="instagram"><img class="img-fluid m-2" data-aos="zoom-in" data-aos-once="true" src="../assets/img/icons/icon-ig.svg" alt="instagram"></a><a href="https://facebook.com/gimpscapeid" aria-label="facebook"><img class="img-fluid m-2" data-aos="zoom-in" data-aos-once="true" src="../assets/img/icons/icon-fb.svg" alt="facebook"></a></div>
                 </div>
             </div>
         </div>
     </section>
-    <section class="py-5">
+    <section data-aos="fade-up" data-aos-once="true" class="py-5">
         <div class="container my-3">
             <h1 class="text-grey"><strong>Sponsors &amp; Community Partner</strong></h1>
             <div>
                 <h5 class="text-grey"><strong>Sponsors</strong></h5>
                 <div class="row justify-content-center justify-content-lg-start my-3">
-                    <div class="col-6 col-sm-6 col-md-4 col-lg-3 col-xl-3 text-center text-lg-left"><a href="#" aria-label="logo-sponsor"><img class="img-fluid w-100" src="../assets/img/fans.svg" alt="sponsor"></a></div>
+                    <div class="col-6 col-sm-6 col-md-4 col-lg-3 col-xl-3 text-center text-lg-left"><a href="http://sepatuku.fans.co.id/" aria-label="logo-sponsor"><img class="img-fluid w-100" src="../assets/img/sponsor-komunitas/fans.svg" alt="sponsor"></a></div>
                 </div>
             </div>
             <div>
                 <h5 class="text-grey"><strong>Community Partner</strong><br></h5>
                 <div class="row justify-content-center justify-content-lg-start my-3">
-                    <div class="col-4 col-sm-4 col-md-3 col-lg-2 text-center"><a href="#" aria-label="logo-sponsor"><img class="img-fluid" src="../assets/img/openSUSE-ID.svg" alt="openSUSE"></a></div>
-                    <div class="col-4 col-sm-4 col-md-3 col-lg-2 text-center"><a href="#" aria-label="logo-sponsor"><img class="img-fluid" src="../assets/img/klas.svg" alt="KLAS"></a></div>
+                    <div class="col-4 col-sm-4 col-md-3 col-lg-2 text-center"><a href="https://opensuse.id" aria-label="logo-sponsor"><img class="img-fluid" src="../assets/img/sponsor-komunitas/openSUSE-ID.svg" alt="openSUSE"></a></div>
+                    <div class="col-4 col-sm-4 col-md-3 col-lg-2 text-center"><a href="https://klas.or.id" aria-label="logo-sponsor"><img class="img-fluid" src="../assets/img/sponsor-komunitas/klas.svg" alt="KLAS"></a></div>
                 </div>
             </div>
         </div>
@@ -145,6 +146,8 @@
     </section>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.1.1/aos.js"></script>
+    <script src="../assets/js/script.min.js"></script>
 </body>
 
 </html>
