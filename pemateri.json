@@ -95,7 +95,7 @@
       {
         "id": 6,
         "time": "13:00 - 15:00",
-        "agenda": "Instagram Carousels : Grow Your Following With Magnetik Content",
+        "agenda": "Hadiid Pratama - Instagram Carousels : Grow Your Following With Magnetik Content",
         "description": "Membuat Instagram Carousel yang baik, untuk menumbuhkan trafik akun Instagram",
         "prereqs": ["Inkscape 1.0", "Instagram"]
       },
@@ -132,42 +132,42 @@
       },
       {
         "id": 3,
-        "time": "11:45 - 12:00",
-        "agenda": "Nur Solikh - Proses Membuat Font Vervelle Script (LT)",
-        "description": "Proses membuat font dari sketsa, sampai menjadi font yang siap di install di komputer",
-        "prereqs": ["aplikasi inkscape", "aplikasi fontforge", "file untuk di bedah yang di download di sini https://drive.google.com/file/d/1Ay1AIO_X9YNS1uf2tbVm8la-LDaseuRC/view?usp=sharing"]
-      },
-      {
-        "id": 4,
-        "time": "12:00 - 12:15",
+        "time": "11:45 - 12:15",
         "agenda": "Fredric Leonardo - Postingan Belajar Bahasa Tionghoa 我們愛 Chinese (LT)",
         "description": "Materinya Ringkas, Tentang Cara Font dan Tipografi Bahasa Cina dan Desain Grafis Ala Chinese",
         "prereqs": ["Inkscape 0.92"]
       },
       {
-        "id": 5,
+        "id": 4,
         "time": "12:15 - 13:00",
         "agenda": "Break",
         "description": null,
         "prereqs": null
       },
       {
-        "id": 6,
+        "id": 5,
         "time": "13:00 - 15:00",
         "agenda": "Aurora (9thn) - Yuk Membuat Lightsaber (Star Wars)",
         "description": "Membuat pedang lightsaber Star Wars",
         "prereqs": ["blender 2.82"]
       },
       {
-        "id": 7,
+        "id": 6,
         "time": "15:00 - 15:15",
+        "agenda": "Nur Solikh - Proses Membuat Font Vervelle Script (LT)",
+        "description": "Proses membuat font dari sketsa, sampai menjadi font yang siap di install di komputer",
+        "prereqs": ["aplikasi inkscape", "aplikasi fontforge", "file untuk di bedah yang di download di sini https://drive.google.com/file/d/1Ay1AIO_X9YNS1uf2tbVm8la-LDaseuRC/view?usp=sharing"]
+      },
+      {
+        "id": 7,
+        "time": "15:15 - 15:30",
         "agenda": "Break",
         "description": null,
         "prereqs": null
       },
       {
         "id": 8,
-        "time": "15:15 - 17:15",
+        "time": "15:30 - 17:30",
         "agenda": "Herbanu Tri Sasongko - Krita: Krita Handwriting Tutorial",
         "description": "1. Mengenal bedanya Calligraphy & Lettering<br>2. Teknik kontrol pentab<br>3. Jenis huruf<br>4. How to layout<br>5. Referensi<br>6. Praktek Nulis",
         "prereqs": ["Memasang aplikasi krita minimal versi 4.2.5", "Direkomendasikan menggunakan pentablet"]
@@ -177,8 +177,8 @@
         "id": 1,
         "time": "09:00 - 09:30",
         "agenda": "Opening",
-        "description": "",
-        "prereqs": ""
+        "description": null,
+        "prereqs": null
       },
       {
         "id": 2,
@@ -189,45 +189,45 @@
       },
       {
         "id": 3,
-        "time": "11:45 - 12:00",
-        "agenda": "Ahfie Rofi - Kenapa Ngomik Pake Krita (LT)",
-        "description": "Mempelajari beberapa fungsi dasar enve untuk membuat animasi sederhana.",
+        "time": "11:45 - 12:15",
+        "agenda": "Michael Wu - 開源先鋒藝術計畫（Open Source Vanguards of Art)",
+        "description": "A+A Space is an open source community for visual designing art and artists. The members do mainly the 3D animation/effects using Blender, while at the same time Gimp is used to work on textures of objects; Inkscape and Krita is used to work on illustrations.  Also, Inkscape is used to handle Chinese fonts and vector graphics because Blender can not work with Chinese fonts correctly. <br>This talk will introduce the community, their work and their ongoing projects like Blender translation and Gimp/Inkscape UI improvement.",
         "prereqs": null
       },
       {
         "id": 4,
-        "time": "12:00 - 12:15",
-        "agenda": null,
-        "description": null,
-        "prereqs": null
-      },
-      {
-        "id": 5,
         "time": "12:15 - 13:00",
         "agenda": "Break",
         "description": null,
         "prereqs": null
       },
       {
-        "id": 6,
+        "id": 5,
         "time": "13:00 - 15:00",
         "agenda": "Rizky Djati Munggaran - Inkscape tutorial: Character design with an outline style",
         "description": "Begitu banyak gaya dalam desain karakter, eksplorasi adalah kunci utama untuk menemukan gaya yang cocok. Dalam kelas workshop kali ini Ridjam akan berbagi cara mendesain karakter dengan gaya outline. Kamu akan belajar bagaimana cara membuat karakter dari sketsa sampai menjadi vektor.",
         "prereqs": ["Terinstal Inkscape (versi berapapun)"]
       },
       {
-        "id": 7,
+        "id": 6,
         "time": "15:00 - 15:15",
+        "agenda": "Ahfie Rofi - Kenapa Ngomik Pake Krita (LT)",
+        "description": "Memaparkan alasan kenapa ngomik (sebagai penyaluran hobi, sebagai media sharing ilmu, berbagi manfaat), serta kenapa pakai krita (karena OS yang digunakan linux, karena fitur krita yang lengkap dan sangat memadai untuk ilustrator pemula, karena antarmukanya keren, dll).",
+        "prereqs": ["Krita", "pentablet"]
+      },
+      {
+        "id": 7,
+        "time": "15:15 - 15:30",
         "agenda": "Break",
         "description": null,
         "prereqs": null
       },
       {
         "id": 8,
-        "time": "15:15 - 17:15",
+        "time": "15:30 - 17:30",
         "agenda": "Dwiyanto - Penggunaan Principled BSDF shader untuk menghasilkan Photorealistic rendering menggunakan cycles pada Blender 2.83",
         "description": "1. Download project file<br>2. Pengenalan Blender 2.83<br>3. Pengaturan pencahayaan dan scene<br>4. Setting Principled BSDF untuk daun<br>5. Setting Principled BSDF untuk batang<br>6. Setting principled BSDF untuk bunga<br>7. Render ",
-        "prereqs ": ["Blender 2.83"]
+        "prereqs": ["Blender 2.83"]
       }
     ]
   }
