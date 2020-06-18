@@ -1,0 +1,234 @@
+{
+  "day1": {
+    "room1": [{
+        "id": 1,
+        "time": "09:00 - 09:30",
+        "agenda": "Opening",
+        "description": null,
+        "prereqs": null
+      },
+      {
+        "id": 2,
+        "time": "09:30 - 11:45",
+        "agenda": "Dedit Priyono - Blender: Animasi Dasar Pendulum Swing",
+        "description": "Membuat animasi sederhana dua pendulum melewati cincin seperti contoh link youtube <a href='https://www.youtube.com/watch?v=nIt-41BcTiA'>https://www.youtube.com/watch?v=nIt-41BcTiA</a>",
+        "prereqs": ["Blender 2.82"]
+      },
+      {
+        "id": 3,
+        "time": "11:45 - 12:00",
+        "agenda": "Mas RJ95 - Membuat Efek Kelopak Bunga Beterbangan dengan Blender 3D (LT)",
+        "description": "Penyajian akan terasa seperti tutorial bagaimana cara membuat efek kelopak bunga beterbangan materi ini akan memanfaatkan fitur particle effect dan bloom yang akan di render menggunakan EEVEE",
+        "prereqs": ["Sudah menginstall Blender minimal versi 2.8 ", "Mengunduh Texture yang dibutuhkan di https://s.klas.or.id/SimpleFlowerPetalTextureGDrive"]
+      },
+      {
+        "id": 4,
+        "time": "12:00 - 12:15",
+        "agenda": "Bayu Aji - Membangun Komunitas Inkscape di Kampus: Peluang dan Tantangan (LT)",
+        "description": "Sesi berbagi pengalaman membangun komunitas desain grafis open source di kampus, langkah yang telah dilakukan dan hambatan yang dialami.",
+        "prereqs ": null
+      },
+      {
+        "id": 5,
+        "time": "12:15 - 13:00",
+        "agenda": "Break",
+        "description": null,
+        "prereqs": null
+      },
+      {
+        "id": 6,
+        "time": "13:00 - 15:00",
+        "agenda": "Syakir Algazel: Membuat Konten Microblog Instagram",
+        "description": "Bongkar cara buat konten microblog Instagram dari proses pencarian ide hingga eksekusinya di software Inkscape.",
+        "prereqs": ["Inkscape 1.0"]
+      },
+      {
+        "id": 7,
+        "time": "15:00 - 15:15",
+        "agenda": "Break",
+        "description": null,
+        "prereqs": null
+      },
+      {
+        "id": 8,
+        "time": "15:15 - 17:15",
+        "agenda": "Ferilee - Merdeka Belajar dengan Moodle dan FOSS",
+        "description": "Salah satu program Menteri Pendidikan dan Kebudayaan Indonesia adalah dengan menginisiasi Merdeka Belajar, sebuah konsep pembelajaran yang menciptakan pembelajaran yang menyenangkan dan membahagiakan.<br><br>Guru sebagai ujung tombak peningkatan kualitas pendidikan dan kesuksesan merdeka belajar harus berupaya melakukan perubahan-perubahan metode pembelajaran yang memanfaatkan teknologi komputer.<br><br>Workshop ini akan membahas tentang penerapan pembelajaran menggunakan moodle dan aplikasi open source lainnya yang mendukung program merdeka belajar.",
+        "prereqs": ["Inkscape", "libreoffice", "e-mail untuk pembuatan akun moodle"]
+      }
+    ],
+    "room2": [{
+        "id": 1,
+        "time": "09:00 - 09:30",
+        "agenda": "Opening",
+        "description": null,
+        "prereqs": null
+      },
+      {
+        "id": 2,
+        "time": "09:30 - 11:45",
+        "agenda": "Nh Anwar - Krita for beginners",
+        "description": "Fungsi tools",
+        "prereqs": ["Krita 9.9.0"]
+      },
+      {
+        "id": 3,
+        "time": "11:45 - 12:00",
+        "agenda": "Rendra Gieka - Mudah Membuat Animasi 2 Dimensi dengan Enve (LT)",
+        "description": "Mempelajari beberapa fungsi dasar enve untuk membuat animasi sederhana.",
+        "prereqs": null
+      },
+      {
+        "id": 4,
+        "time": "12:00 - 12:15",
+        "agenda": "Kukuh Syafaat - Translasi Ringkas<br>(LT)",
+        "description": "Presentasi ini akan mengupas translasi Inkscape ke Bahasa Indonesia.Translasi Inkscape sebenarnya tidak hanya mencakup antarmuka pengguna saja, tetapi ada beberapa komponen lainnya. Jadi, apakah Inkscape masih perlu ditranslasikan? Atau malah tidak perlu? Mari kita diskusikan.",
+        "prereqs": ["Pengguna Inkscape"]
+      },
+      {
+        "id": 5,
+        "time": "12:15 - 13:00",
+        "agenda": "Break",
+        "description": null,
+        "prereqs": null
+      },
+      {
+        "id": 6,
+        "time": "13:00 - 15:00",
+        "agenda": "Instagram Carousels : Grow Your Following With Magnetik Content",
+        "description": "Membuat Instagram Carousel yang baik, untuk menumbuhkan trafik akun Instagram",
+        "prereqs": ["Inkscape 1.0", "Instagram"]
+      },
+      {
+        "id": 7,
+        "time": "15:00 - 15:15",
+        "agenda": "Break",
+        "description": null,
+        "prereqs": null
+      },
+      {
+        "id": 8,
+        "time": "15:15 - 17:15",
+        "agenda": null,
+        "description": null,
+        "prereqs": null
+      }
+    ]
+  },
+  "day2": {
+    "room1": [{
+        "id": 1,
+        "time": "09:00 - 09:30",
+        "agenda": "Opening",
+        "description": null,
+        "prereqs": null
+      },
+      {
+        "id": 2,
+        "time": "09:30 - 11:45",
+        "agenda": "Nugroho Dwi Hartawan - Menjadi Freelancer Bermodalkan Software Open Source",
+        "description": "panduan bagaimana menjadi freelancer dengan software open source",
+        "prereqs": ["sudah punya akun di www.freelancer.com"]
+      },
+      {
+        "id": 3,
+        "time": "11:45 - 12:00",
+        "agenda": "Nur Solikh - Proses Membuat Font Vervelle Script (LT)",
+        "description": "Proses membuat font dari sketsa, sampai menjadi font yang siap di install di komputer",
+        "prereqs": ["aplikasi inkscape", "aplikasi fontforge", "file untuk di bedah yang di download di sini https://drive.google.com/file/d/1Ay1AIO_X9YNS1uf2tbVm8la-LDaseuRC/view?usp=sharing"]
+      },
+      {
+        "id": 4,
+        "time": "12:00 - 12:15",
+        "agenda": "Fredric Leonardo - Postingan Belajar Bahasa Tionghoa 我們愛 Chinese (LT)",
+        "description": "Materinya Ringkas, Tentang Cara Font dan Tipografi Bahasa Cina dan Desain Grafis Ala Chinese",
+        "prereqs": ["Inkscape 0.92"]
+      },
+      {
+        "id": 5,
+        "time": "12:15 - 13:00",
+        "agenda": "Break",
+        "description": null,
+        "prereqs": null
+      },
+      {
+        "id": 6,
+        "time": "13:00 - 15:00",
+        "agenda": "Aurora (9thn) - Yuk Membuat Lightsaber (Star Wars)",
+        "description": "Membuat pedang lightsaber Star Wars",
+        "prereqs": ["blender 2.82"]
+      },
+      {
+        "id": 7,
+        "time": "15:00 - 15:15",
+        "agenda": "Break",
+        "description": null,
+        "prereqs": null
+      },
+      {
+        "id": 8,
+        "time": "15:15 - 17:15",
+        "agenda": "Herbanu Tri Sasongko - Krita: Krita Handwriting Tutorial",
+        "description": "1. Mengenal bedanya Calligraphy & Lettering<br>2. Teknik kontrol pentab<br>3. Jenis huruf<br>4. How to layout<br>5. Referensi<br>6. Praktek Nulis",
+        "prereqs": ["Memasang aplikasi krita minimal versi 4.2.5", "Direkomendasikan menggunakan pentablet"]
+      }
+    ],
+    "room2": [{
+        "id": 1,
+        "time": "09:00 - 09:30",
+        "agenda": "Opening",
+        "description": "",
+        "prereqs": ""
+      },
+      {
+        "id": 2,
+        "time": "09:30 - 11:45",
+        "agenda": "Pramasta Ramadha Rahardjo: Membuat Ilustrasi Pixel Art dengan GIMP",
+        "description": "Fungsi tools",
+        "prereqs": ["Krita 9.9.0"]
+      },
+      {
+        "id": 3,
+        "time": "11:45 - 12:00",
+        "agenda": "Ahfie Rofi - Kenapa Ngomik Pake Krita (LT)",
+        "description": "Mempelajari beberapa fungsi dasar enve untuk membuat animasi sederhana.",
+        "prereqs": null
+      },
+      {
+        "id": 4,
+        "time": "12:00 - 12:15",
+        "agenda": null,
+        "description": null,
+        "prereqs": null
+      },
+      {
+        "id": 5,
+        "time": "12:15 - 13:00",
+        "agenda": "Break",
+        "description": null,
+        "prereqs": null
+      },
+      {
+        "id": 6,
+        "time": "13:00 - 15:00",
+        "agenda": "Rizky Djati Munggaran - Inkscape tutorial: Character design with an outline style",
+        "description": "Begitu banyak gaya dalam desain karakter, eksplorasi adalah kunci utama untuk menemukan gaya yang cocok. Dalam kelas workshop kali ini Ridjam akan berbagi cara mendesain karakter dengan gaya outline. Kamu akan belajar bagaimana cara membuat karakter dari sketsa sampai menjadi vektor.",
+        "prereqs": ["Terinstal Inkscape (versi berapapun)"]
+      },
+      {
+        "id": 7,
+        "time": "15:00 - 15:15",
+        "agenda": "Break",
+        "description": null,
+        "prereqs": null
+      },
+      {
+        "id": 8,
+        "time": "15:15 - 17:15",
+        "agenda": "Dwiyanto - Penggunaan Principled BSDF shader untuk menghasilkan Photorealistic rendering menggunakan cycles pada Blender 2.83",
+        "description": "1. Download project file<br>2. Pengenalan Blender 2.83<br>3. Pengaturan pencahayaan dan scene<br>4. Setting Principled BSDF untuk daun<br>5. Setting Principled BSDF untuk batang<br>6. Setting principled BSDF untuk bunga<br>7. Render ",
+        "prereqs ": ["Blender 2.83"]
+      }
+    ]
+  }
+}
