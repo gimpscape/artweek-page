@@ -81,7 +81,7 @@
       {
         "id": 4,
         "time": "12:00 - 12:15",
-        "agenda": "Kukuh Syafaat - Translasi Ringkas<br>(LT)",
+        "agenda": "Kukuh Syafaat - Translasi Inkscape<br>(LT)",
         "description": "Presentasi ini akan mengupas translasi Inkscape ke Bahasa Indonesia.Translasi Inkscape sebenarnya tidak hanya mencakup antarmuka pengguna saja, tetapi ada beberapa komponen lainnya. Jadi, apakah Inkscape masih perlu ditranslasikan? Atau malah tidak perlu? Mari kita diskusikan.",
         "prereqs": ["Pengguna Inkscape"]
       },
