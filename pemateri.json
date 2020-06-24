@@ -192,7 +192,7 @@
         "time": "09:30 - 11:45",
         "agenda": "Pramasta Ramadha Rahardjo: Membuat Ilustrasi Pixel Art dengan GIMP",
         "description": "Fungsi tools",
-        "prereqs": ["Krita 9.9.0"]
+        "prereqs": ["GIMP 2.10"]
       },
       {
         "id": 3,
