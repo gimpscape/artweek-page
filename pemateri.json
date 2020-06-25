@@ -139,7 +139,7 @@
       },
       {
         "id": 4,
-        "time": "12:30 - 12:15",
+        "time": "12:15 - 12:30",
         "agenda": "Laila Mudhi - Seberapa Oke Value-mu?",
         "description": "Pembahasan tentang seberapa oke sih value ilustrasi kalian di dunia desain grafis?",
         "prereqs": ["-"]
@@ -197,7 +197,7 @@
       {
         "id": 3,
         "time": "11:45 - 12:15",
-        "agenda": "Michael Wu - 開源先鋒藝術計畫（Open Source Vanguards of Art)",
+        "agenda": "Stan Su - 開源先鋒藝術計畫（Open Source Vanguards of Art)",
         "description": "A+A Space is an open source community for visual designing art and artists. The members do mainly the 3D animation/effects using Blender, while at the same time Gimp is used to work on textures of objects; Inkscape and Krita is used to work on illustrations.  Also, Inkscape is used to handle Chinese fonts and vector graphics because Blender can not work with Chinese fonts correctly. <br>This talk will introduce the community, their work and their ongoing projects like Blender translation and Gimp/Inkscape UI improvement.",
         "prereqs": null
       },
