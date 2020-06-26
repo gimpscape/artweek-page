@@ -132,14 +132,14 @@
       },
       {
         "id": 3,
-        "time": "11:45 - 12:15",
+        "time": "11:45 - 12:00",
         "agenda": "Fredric Leonardo - Postingan Belajar Bahasa Tionghoa 我們愛 Chinese (LT)",
         "description": "Materinya Ringkas, Tentang Cara Font dan Tipografi Bahasa Cina dan Desain Grafis Ala Chinese",
         "prereqs": ["Inkscape 0.92"]
       },
       {
         "id": 4,
-        "time": "12:15 - 12:30",
+        "time": "12:00 - 12:15",
         "agenda": "Laila Mudhi - Seberapa Oke Value-mu?",
         "description": "Pembahasan tentang seberapa oke sih value ilustrasi kalian di dunia desain grafis?",
         "prereqs": ["-"]
